@@ -26,8 +26,8 @@ cd activiti-rest-docker
 * Se necessário, edite `db.properties` para alterar:
 
   * Nome do banco de dados
-  * Usuário
-  * Senha
+  * Unsername
+  * Password
   * Host de conexão
 
 ---
